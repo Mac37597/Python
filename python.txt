@@ -1,0 +1,18 @@
+'''def rep(c, n):
+    if n>0:
+       return c*n
+   
+print(rep('c',5))'''
+
+'''def fonction(c,d,n,m):
+   if n >0 and m> 0:
+        return c* n+ d* m
+print(fonction('n','m',8,9))'''
+
+'''def inverser_chaine(chaine):
+    chaine_inverse = ""
+    for caractere in chaine:
+        chaine_inverse = caractere + chaine_inverse
+    return chaine_inverse
+chaine ="Mhedi"
+print(inverser_chaine(chaine))'''
