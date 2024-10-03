@@ -16,3 +16,7 @@ print(fonction('n','m',8,9))'''
     return chaine_inverse
 chaine ="Mhedi"
 print(inverser_chaine(chaine))'''
+
+'''def triple_six(ch):
+     return "666" in ch
+print(triple_six("aaa66s"))'''
