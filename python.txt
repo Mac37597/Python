@@ -20,6 +20,11 @@ print(inverser_chaine(chaine))'''
 '''def triple_six(ch):
      return "666" in ch
 print(triple_six("aaa66s"))'''
+'''def affiche2():
+  for j in [0, 1, 2, 3]:
+      print(j)
+
+affiche2()'''
 
 '''def triple_six_exact(ch):
    n=len(ch)
